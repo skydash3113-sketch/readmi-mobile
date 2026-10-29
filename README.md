@@ -1,1 +1,21 @@
-# readmi-mobile
+#### Hi 👋, I'm Firman Fadilah Noor. 
+##### Saya Mahasiswa Teknik Informatika.
+
+💻Saat ini saya sedang belajar pemrograman mobile:
+
+| No  | Minggu ke  | Praktikum ke  | Topik  | Modul | Repository |
+| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | 
+|  1 | 01  | 01  | Pengenalan Mobile Programming dan Setup Lingkungan  | [Modul 01](https://docs.google.com/document/d/1aVRJTNYvTpJY1oBlYQX1pxzbSQFfJ98n/edit?usp=sharing&ouid=104944616880503288967&rtpof=true&sd=true "Modul 01") | [Repository](https://github.com/skydash3113-sketch/mobile/tree/main/modul_1ku "Repository") |
+|  2 | 01  | 01  | Widget Row dan Column | [Modul 02](https://docs.google.com/document/d/1bAyuU6jrKHtkA4Xj5qt7JtetDfKI22JQ/edit?usp=sharing&ouid=104944616880503288967&rtpof=true&sd=true "Modul 02")| [Repository](https://github.com/skydash3113-sketch/mobile/tree/main/modul_2ku "Repository")|
+|  3 | 02  | 02  | Pengaturan Layout Row dan Column di Flutter  | [Modul 03](https://drive.google.com/file/d/1gIgl7aoclgOV_NzmygZbeMh5IfxyfyRP/view?usp=sharing "Modul 03")| [Repository](https://github.com/skydash3113-sketch/mobile/tree/main/modul_3ku "Repository")|
+|  4 | 02  | 02  | Widget Flexible dan Expanded  | [Modul 04](https://drive.google.com/file/d/1mtCScd_vPk-hPPJ-4FVrpd8PFaecZS2z/view?usp=sharing "Modul 04")| [Repository](https://github.com/skydash3113-sketch/mobile/tree/main/modul_4ku "Repository")|
+|  5 | 03  | 03  | Widget SizedBox, Spacer, dan Card  | [Modul 05](https://drive.google.com/file/d/1cVl9qzwmJ1fy4ZU1NfBjXaTaYjDmRkBa/view?usp=sharing "Modul 05")| [Repository](https://github.com/skydash3113-sketch/mobile/tree/main/modul_5 "Repository")|
+|  6 | 03  | 03  | Widget GridView, ListView, GridView.builder, dan ListView.builder  | [Modul 06](https://drive.google.com/file/d/1AuNC4Di23vbN-_c1wO1iCDbLTl5g06JU/view?usp=sharing "Modul 06")| [Repository](https://github.com/skydash3113-sketch/mobile/tree/main/modul_6 "Repository")|
+|  7 | 04  | 04  | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route  | [Modul 07](https://drive.google.com/file/d/1FL0RlUBs1ge5TwTdgPA2wp605XfkB7oV/view?usp=sharing "Modul 07")| [Repository](https://github.com/skydash3113-sketch/mobile/tree/main/modul_7 "Repository")|
+|  8 | 04  | 04  | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route  | [Modul 08](https://drive.google.com/file/d/10KMwv9Al60bD8qIRRBTVpdEmX8r6VcGl/view?usp=sharing "Modul 08")| [Repository](https://github.com/skydash3113-sketch/mobile/tree/main/modul_8 "Repository")|
+|  9 | 05  | 05  | StatefulWidget  | [Modul 09](https://drive.google.com/file/d/1hMW8jVZg5sbH-9a0eH6hbaKgkREEBp1W/view?usp=sharing "Modul 09")| [Repository](https://github.com/skydash3113-sketch/mobile/tree/main/modul_9 "Repository")|
+|  10 | 06  | 06  | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter  | [Modul 10](https://drive.google.com/file/d/19CE7EJOTxntHzU0SIbKmA2CBdxCBRKcc/view?usp=sharing "Modul 10")| [Repository](https://github.com/skydash3113-sketch/mobile/tree/main/modul_10ku "Repository")|
+|  11 | 07  | 07  | Manajemen State dengan GetX  | [Modul 11](https://drive.google.com/file/d/1t9mFmYIQonnU-uCw3QK3kDGwwzQnXpSd/view?usp=sharing "Modul 11")| [Repository](https://github.com/skydash3113-sketch/mobile/tree/main/modul_11 "Repository")|
+|  12 | 08  | 08  | Ujian Tengah Seemester  | [UTS](https://drive.google.com/file/d/1HaHH549ucRdvR78h_D0e37WOwUT9gP9F/view?usp=sharing "UTS")| [Repository](https://github.com/skydash3113-sketch/mobile/tree/main/UTS%20mobile%20praktikum "Repository")|
+|  13 | 09  | 09  | Akses Lokasi dengan GPS di Flutter  | [Modul 12](https://drive.google.com/file/d/1xebyDWrK97sHBuk18l03xJ0v6Ng031f6/view?usp=sharing "Modul 12")| [Repository](https://docs.google.com/document/d/1xvKBJoPR722O15VF5j7qi5ns9wWFN9mG/edit?usp=sharing&ouid=104944616880503288967&rtpof=true&sd=true "Repository")|
+|  14 | 10  | 10  | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API  | [Modul 13](https://drive.google.com/file/d/12oLMVn6X460gDB_xag5f1y8vFBRsLFOj/view?usp=sharing "Modul 13")| [Repository](https://docs.google.com/document/d/1xvKBJoPR722O15VF5j7qi5ns9wWFN9mG/edit?usp=sharing&ouid=104944616880503288967&rtpof=true&sd=true "Repository")|
